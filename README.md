@@ -1,8 +1,5 @@
 # Power BI - Analyzing Healthcare Data
-
-![image](https://github.com/user-attachments/assets/380de0e7-0f3a-42df-87d6-82feda855222)
-
-
+![image](https://github.com/user-attachments/assets/8a2eaf69-bdb2-406e-a76e-960fa9753e6c)
 
 ## 📌 Project Overview  
 This case study focuses on analyzing hospital efficiency to uncover insights and recommend improvements. The analysis explores hospital performance outliers and identifies key factors influencing **length of stay** and **cost per patient discharge**.
